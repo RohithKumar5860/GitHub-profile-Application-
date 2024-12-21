@@ -10,4 +10,4 @@
 When a username is entered, the app dynamically updates the page with fetched data or displays an error if the user isn't found. The CSS ensures visually appealing layouts, while JavaScript handles API integration, data processing, and event-driven updates. This project demonstrates practical API usage and is a great addition to portfolios, showcasing skills in frontend development and real-time data handling.
 </p>
 <img src = "output1 me.png"> 
-<img src = ""> 
+<img src = "output prem.png"> 
